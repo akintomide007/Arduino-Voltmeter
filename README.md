@@ -15,5 +15,5 @@ A maximum voltage of 500V can be read succesfully. There is approximately a ± 1
 
 ![circuit drawing](https://user-images.githubusercontent.com/29009445/29237394-67cf517e-7eeb-11e7-873b-d3c9f35daff8.png)
 
-An interactive simulation of this project is available at: https://www.tinkercad.com/things/cHlaeZ6pVNJ
+An interactive simulation of this project is available at: https://www.tinkercad.com/things/cHlaeZ6pVNJ  <br />
 Voltmeter in action: -insert youtube link-
