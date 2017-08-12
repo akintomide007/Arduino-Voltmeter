@@ -9,7 +9,7 @@ A 1:100 voltage divider is used. This means the received voltage to the board wi
 The voltage divider equation is then used to convert voltage received to the actual input voltage. This voltage is then displayed on a 
 16x2 LCD screen for the user to see.
 
-A maximum voltage of 500V can be read succesfully. There is approximately a ± 1.4% error in the readings.
+A maximum voltage of 500V can be read succesfully. There is approximately a ± 1.4% error in the readings due to analog reading fluctuations.
 
 ## Circuit Drawing 
 
